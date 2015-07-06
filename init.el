@@ -33,7 +33,9 @@
     (package-install package)))
 
 (add-to-list 'load-path "~/.emacs.d/modules")
+
 (require 'init-general)
 (require 'init-bde-style)
 (require 'init-cpp)
 (require 'init-rtags)
+(require 'init-ido)
