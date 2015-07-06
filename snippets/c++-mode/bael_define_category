@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: BAEL DEFINE CATEGORY
+# key: ncat
+# binding: direct-keybinding
+# --
+namespace {
+const char* LOG_CATEGORY = "";
+}
